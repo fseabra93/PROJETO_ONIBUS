@@ -5,14 +5,17 @@ O "Sistema Gerenciador de Transportes Coletivos" é um programa de gerenciamento
 
 ## Instalação
 
-1. Clone o repositório: 
+1. Clone o repositório: https://github.com/fseabra93/PROJETO_ONIBUS.git
 2. Abra o terminal e navegue até o diretório do projeto;
-3. Execute o comando `npm install`.
+3. Execute os comandos:
+    g++ -c main.cpp onibus.cpp
+	g++ -o prog main.o onibus.o
+    ./prog
 
 ## Utilização
 
-1. Execute o comando `npm start` para iniciar o servidor;
-2. Abra o navegador e acesse `http://localhost:3000`.
+1. Ao iniciar, o programa solicitará ao usuário do programa a escolha do perfil, que pode ser o de usuário (cliente) do serviço de transportes coletivos urbanos (opção 1) ou de GERENTE do sistema (opção 2).
+2. O cliente do sistema terá
 
 ## Contribuição
 
