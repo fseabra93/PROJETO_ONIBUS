@@ -6,4 +6,4 @@ rodar:
 	./prog
 
 limpar:
-	rm -f programa01 *.o 
+	rm -f prog *.o 
