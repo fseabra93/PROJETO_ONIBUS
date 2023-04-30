@@ -5,7 +5,7 @@ O "Sistema Gerenciador de Transportes Coletivos" é um programa de gerenciamento
 
 ## Instalação
 
-1. Clone o repositório;
+1. Clone o repositório: 
 2. Abra o terminal e navegue até o diretório do projeto;
 3. Execute o comando `npm install`.
 
